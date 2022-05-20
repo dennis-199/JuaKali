@@ -11,8 +11,8 @@
         android:title="Category"/>
     <item
         android:id="@+id/feed"
-        android:icon="@drawable/ic_baseline_feed_24"
-        android:title="Feeds"/>
+        android:icon="@drawable/ic_baseline_store_mall_directory_24"
+        android:title="Services"/>
     <item
         android:id="@+id/trade"
         android:icon="@drawable/ic_baseline_autorenew_24"

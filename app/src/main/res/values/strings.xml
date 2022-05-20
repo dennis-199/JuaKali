@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Jua Kali</string>
+    <string name="log_in">log in</string>
+    <string name="phone_number">Phone number</string>
+    <string name="myphone">254792935763</string>
+    <string name="your_password">Your password</string>
+    <string name="examplepass">fjshluslhs</string>
+    <string name="log_inbutton">LOG IN</string>
+    <string name="dont_have_an_account_sign_in">Dont have an account SIGN IN</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_up_with_google">Sign up with google</string>
+    <string name="sign_up">sign up</string>
+    <string name="have_an_account_sign_in">Have an Account sign In</string>
+    <string-array name="roles">
+        <item>Customer</item>
+        <item>Seller</item>
+        <item>Administrator</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

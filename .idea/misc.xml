@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/font/.xml" value="0.21927083333333333" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/layout/activity_register.xml" value="0.1890625" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/JuaKali/app/src/main/res/menu/bottom_nav.xml" value="0.1890625" />
       </map>
