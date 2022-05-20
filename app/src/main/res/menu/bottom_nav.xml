@@ -10,7 +10,7 @@
         android:icon="@drawable/ic_baseline_category_24"
         android:title="Category"/>
     <item
-        android:id="@+id/feed"
+        android:id="@+id/services"
         android:icon="@drawable/ic_baseline_store_mall_directory_24"
         android:title="Services"/>
     <item
